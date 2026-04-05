@@ -42,6 +42,36 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/performance-cold-air-intake/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/sport-performance-exhaust-system/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/adjustable-coilover-suspension-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/high-performance-brake-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/turbocharger-performance-upgrade/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
